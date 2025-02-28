@@ -1,0 +1,36 @@
+h1,h2,h3,h4,h5,h6{
+    font-size: 1em;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+    display: none;
+    font-weight: normal;
+    unicode-bidi: normal;
+}
+body{
+    display: none;
+    margin: 0px;
+}
+header{
+    display: none;
+    unicode-bidi: normal;
+}
+nav{
+    display: none;
+    unicode-bidi: normal;
+}
+ul{
+    display: none;
+    list-style-type: none;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+    padding-inline-start: 0em;
+    unicode-bidi: normal;
+}
+footer{
+    display: none;
+    unicode-bidi: isolate;
+}
