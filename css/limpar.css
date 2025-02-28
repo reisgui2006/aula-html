@@ -32,5 +32,5 @@ ul{
 }
 footer{
     display: none;
-    unicode-bidi: isolate;
+    unicode-bidi: normal;
 }
